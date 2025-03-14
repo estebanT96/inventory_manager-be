@@ -1,0 +1,5 @@
+com/encora/esteban/inventory/manager/be/config/CorsConfig.class
+com/encora/esteban/inventory/manager/be/InventoryManagerBeApplication.class
+com/encora/esteban/inventory/manager/be/service/ProductService.class
+com/encora/esteban/inventory/manager/be/model/Product.class
+com/encora/esteban/inventory/manager/be/controller/InventoryController.class

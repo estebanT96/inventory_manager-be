@@ -1,1 +1,0 @@
-# inventory_manager-be
