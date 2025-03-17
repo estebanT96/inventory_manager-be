@@ -1,5 +1,5 @@
-/Users/esteban.tapia/inventory-manager/inventory-manager-be/src/main/java/com/encora/esteban/inventory/manager/be/InventoryManagerBeApplication.java
-/Users/esteban.tapia/inventory-manager/inventory-manager-be/src/main/java/com/encora/esteban/inventory/manager/be/config/CorsConfig.java
-/Users/esteban.tapia/inventory-manager/inventory-manager-be/src/main/java/com/encora/esteban/inventory/manager/be/controller/InventoryController.java
-/Users/esteban.tapia/inventory-manager/inventory-manager-be/src/main/java/com/encora/esteban/inventory/manager/be/model/Product.java
-/Users/esteban.tapia/inventory-manager/inventory-manager-be/src/main/java/com/encora/esteban/inventory/manager/be/service/ProductService.java
+C:\Users\zteve\OneDrive\Escritorio\React\inventory-manager-be\src\main\java\com\esteban\inventory\manager\be\config\CorsConfig.java
+C:\Users\zteve\OneDrive\Escritorio\React\inventory-manager-be\src\main\java\com\esteban\inventory\manager\be\controller\InventoryController.java
+C:\Users\zteve\OneDrive\Escritorio\React\inventory-manager-be\src\main\java\com\esteban\inventory\manager\be\InventoryManagerBeApplication.java
+C:\Users\zteve\OneDrive\Escritorio\React\inventory-manager-be\src\main\java\com\esteban\inventory\manager\be\model\Product.java
+C:\Users\zteve\OneDrive\Escritorio\React\inventory-manager-be\src\main\java\com\esteban\inventory\manager\be\service\ProductService.java

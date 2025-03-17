@@ -1,4 +1,4 @@
-package com.encora.esteban.inventory.manager.be;
+package com.esteban.inventory.manager.be;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
